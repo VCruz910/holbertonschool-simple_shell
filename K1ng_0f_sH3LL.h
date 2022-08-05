@@ -36,7 +36,7 @@ typedef struct ShData
   char *Error_MSG;
   char *OldPWD;
   unsigned long int IDX;
-  char *ENV;
+  char *env;
 } ShData_t;
 
 typedef struct  BuiltIn
