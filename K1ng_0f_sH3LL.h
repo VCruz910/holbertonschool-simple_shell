@@ -18,7 +18,7 @@
 extern char **environ;
 
 /*__Macros__*/
-#define BUFSIZE 1024
+#define BUFSIZE 256
 #define TOK_DELIM " \t\r\n\a"
 #define PRINT(c) (write(STDOUT_FILENO, c, ShStrLen(c)))
 #define TOK_SIZE 64
