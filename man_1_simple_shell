@@ -1,0 +1,22 @@
+.TH hsh 1
+.SH NAME
+hsh \- Initializes G8s_0f_sH3LL
+.SH SYPNOSIS
+.B hsh
+[Commands]
+[Options... ]
+.SH DESCRIPTION
+.B hsh
+A simple shell created as a project for Holberton School's first trimester.
+.SH OPTIONS
+The options for this command are mostly the same as a Linux Terminal. Here are some command examples:
+.TP
+.BR cd
+Changes directory
+.TP
+.BR ls
+List's directory contents
+.TP
+.BR exit
+Exits the shell
+
